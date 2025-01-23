@@ -19,11 +19,10 @@ This API uses a  model to predict manufacturing defects based on input features.
 ### Step 1: Clone this Repository
 Download or clone the API codebase to your local machine.
 ```bash
-# Clone the repository (if hosted on GitHub)
-git clone <repository-url>
 
-# Navigate to the project directory
-cd <repository-directory>
+git clone [<repository-url>](https://github.com/sskkyy786/Predictive-Analysis-for-Manufacturing-Operations-.git)
+
+cd [<repository-directory>](https://github.com/sskkyy786/Predictive-Analysis-for-Manufacturing-Operations-.git)
 ```
 
 ### Step 2: Install Dependencies
