@@ -21,9 +21,8 @@ Download or clone the API codebase to your local machine.
 ```bash
 
 git clone https://github.com/sskkyy786/Predictive-Analysis-for-Manufacturing-Operations-.git
-
-cd https://github.com/sskkyy786/Predictive-Analysis-for-Manufacturing-Operations-.git
 ```
+Set the working directory to the cloned folder
 
 ### Step 2: Install Dependencies
 Install the necessary Python packages:
